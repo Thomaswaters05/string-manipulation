@@ -3,6 +3,7 @@
 ## Description
 - Copy the code below into the JavaScript file, and follow the instructions in the comments.
 
+
 1. In your HTML, create an text input and a button.
 
 2.The text input should only accept letters. No numbers.

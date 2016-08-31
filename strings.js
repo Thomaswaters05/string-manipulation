@@ -26,5 +26,5 @@ function submit (){
  output.innerHTML = "<div>" + testString + "</div>"; //outputs normal
  output.innerHTML += "<div>" + reversal(testString) + "</div>"; // outputs reverse
  output.innerHTML += "<div>" + alphabits(testString) + "</div>";// outputs in alphabetical order
- output.innerHTML += "<div>" + palindrome(testString) + "<div>";// outputs true or false if its a palindrome.
+ output.innerHTML += "<div>" + palindrome(testString) + "<div>";// outputts true or false if its a palindrome.
  }
